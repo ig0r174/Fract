@@ -1,0 +1,11 @@
+/Users/igorpetrov/RiderProjects/ExamN1/ExamN1/bin/Debug/netcoreapp3.0/ExamN1
+/Users/igorpetrov/RiderProjects/ExamN1/ExamN1/bin/Debug/netcoreapp3.0/ExamN1.deps.json
+/Users/igorpetrov/RiderProjects/ExamN1/ExamN1/bin/Debug/netcoreapp3.0/ExamN1.runtimeconfig.json
+/Users/igorpetrov/RiderProjects/ExamN1/ExamN1/bin/Debug/netcoreapp3.0/ExamN1.runtimeconfig.dev.json
+/Users/igorpetrov/RiderProjects/ExamN1/ExamN1/bin/Debug/netcoreapp3.0/ExamN1.dll
+/Users/igorpetrov/RiderProjects/ExamN1/ExamN1/bin/Debug/netcoreapp3.0/ExamN1.pdb
+/Users/igorpetrov/RiderProjects/ExamN1/ExamN1/obj/Debug/netcoreapp3.0/ExamN1.csprojAssemblyReference.cache
+/Users/igorpetrov/RiderProjects/ExamN1/ExamN1/obj/Debug/netcoreapp3.0/ExamN1.AssemblyInfoInputs.cache
+/Users/igorpetrov/RiderProjects/ExamN1/ExamN1/obj/Debug/netcoreapp3.0/ExamN1.AssemblyInfo.cs
+/Users/igorpetrov/RiderProjects/ExamN1/ExamN1/obj/Debug/netcoreapp3.0/ExamN1.dll
+/Users/igorpetrov/RiderProjects/ExamN1/ExamN1/obj/Debug/netcoreapp3.0/ExamN1.pdb
